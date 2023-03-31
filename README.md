@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikored
-- 👀 I’m interested in game development and automation
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on indie game development and maybe open source engineering projects
+- 👀 I’m interested in web development, game development and automation
+- 🌱 I’m currently learning full-stack development using node.js
+- 💞️ I’m looking to collaborate on indie game development and open source projects
 - 📫 How to reach me ...
 
 <!---
